@@ -1,8 +1,8 @@
 # crawler
 
-This is the assignment for https://www.sedna.com/ . 
-It is Spring boot application that it take the https://www.sedna.com/ in the website and then it crawling the https://www.sedna.com/ .
-The Out put: 
-  1- In the web page, it shows the list of wed references which are related to www.sedna.com with each page images with the JavaScript and CSS files affected.
-  2- In the console it bring the list of web references which are related to www.sedna.com and for each member of the list it shows the name of images, JavaScript and CSS.
-based on the assignment I think it is solved.
+This is the assignment for https://www.sedna.com/ . <br>
+The code that I wrote is in Spring boot. So It would need to open and run in STS. The user should open localhost:8080 in the browser then the clients should enter https://www.sedna.com/ in the text box and click on submit button. <br>
+After a while it would have two output: <br>
+1- in the web that shows the links which are related to "www.sedna.com"  + Images + it is affected by CSS and JavaScript. <br>
+2- in the output section of STS the user can see the list of links for each item it shows the images, Javascript, CSS.
+
